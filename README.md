@@ -32,5 +32,15 @@ Here are some ideas to get you started:
 [![Tech Blog](https://img.shields.io/badge/Blog-0ABF53?style=flat-square&logo=blogger&logoColor=white)](https://blog.naver.com/PostView.nhn?blogId=dlmajang&logNo=222004852213) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.wjdwls48145@gmail.com)
 
 
-
+## Github Status
+<br><br>
+<a href="https://github.com/Majang9711">
+    <img src="https://github-readme-stats.vercel.app/api?username=Majang9711&count_private=true&show_icons=true"/>
+</a>
+<br><br>
+<a href="https://github.com/soc06212">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majang9711" />
+</a>
+<br><br>
+  
 </div>
