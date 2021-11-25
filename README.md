@@ -45,27 +45,27 @@ Here are some ideas to get you started:
 <br><br>
 
 ## 🕐 t i m e  l i n e 🕐
-### 초등학교
- > * Java (기초)
- > * Php (기초)
- > * MCBE/MCPE Plugin (기초)
+### Elementary School
+ > - Java (기초)
+ > - Php (기초)
+ > - MCBE/MCPE Plugin (기초)
 
-### 중학교
- > * MCBE/MCPE Plugin (만들고 싶은건 다 만들었음)
- > * Html, CSS, Jsp (기초)
- > * Arduino (기초)
+### Middle School
+ > - MCBE/MCPE Plugin (만들고 싶은건 다 만들었음)
+ > - Html, CSS, Jsp (기초)
+ > - Arduino (기초)
 
-### 고등학교
- > * Flutter / Dart 
- > * Unreal (기초) / C++ (기초)
- > * Unity / C#
- > * Arduino
- > * Python / Django
+### High School
+ > - Flutter / Dart 
+ > - Unreal (기초) / C++ (기초)
+ > - Unity / C#
+ > - Arduino
+ > - Python / Django
  
-### 대학교 (현재 진행)
- > * Python
- > * Flutter / Dart 
- > * Unity3D / C#
- > * Web - Html, php, jsp, CSS
+### University (현재 진행)
+ > - Python
+ > - Flutter / Dart 
+ > - Unity3D / C#
+ > - Web - Html, php, jsp, CSS
  
 <br><br>
