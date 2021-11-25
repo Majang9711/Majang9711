@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Egg&color=green&height=300&section=header&text=Majang's-Github!!&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Egg&color=gradient&height=300&section=header&text=Majang's-Github!!&fontSize=70)
 
 <div align=center>
 
