@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0080ff&height=300&section=header&text=Majang's%20%Github%20!!&fontSize=64&fontColor=e8eaea&animtaion=fadeIn)
 
-<div align=center>
+
 
 ## ⚡ t e c h ⚡
 
@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Php-392f31?style=flat-square&logo=Php#&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
-## 💬 b l o g  &  M a i l 📫
+## ✔︎ b l o g  &  M a i l ✔︎
 [![Tech Blog](https://img.shields.io/badge/Blog-0ABF53?style=flat-square&logo=blogger&logoColor=white)](https://blog.naver.com/PostView.nhn?blogId=dlmajang&logNo=222004852213) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.wjdwls48145@gmail.com)
   
-</div>
+  
 
-## Github Status
+## ▶︎ s t a t s ◀︎
 <br><br>
 <a href="https://github.com/Majang9711">
     <img src="https://github-readme-stats.vercel.app/api?username=Majang9711&count_private=true&show_icons=true"/>
