@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=gradient&height=300&section=header&text="Welcome to Majang's Github"&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=gradient&height=300&section=header&text={Welcome to Majang's Github}&fontSize=70)
 
 <div align=center>
 
