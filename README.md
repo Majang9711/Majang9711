@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Dart-9999FF?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-0080ff?style=flat-square&logo=Flutter&logoColor=white"/>
   
-<img src="https://img.shields.io/badge/Html-000?style=flat-square&logo=Html#&logoColor=white"/>
+<img src="https://img.shields.io/badge/Html-373535?style=flat-square&logo=Html#&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 ## 💬 b l o g  &  M a i l 📫
