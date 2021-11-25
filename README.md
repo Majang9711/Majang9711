@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=gradient&height=300&section=header&text=Majang's&fontSize=70)
+[header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height=300&section=header&text=Majang's%20%Github20!!&fontSize=64&fontColor=c5e1a5&animtaion=fadeIn)
 
 <div align=center>
 
