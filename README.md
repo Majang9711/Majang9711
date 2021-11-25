@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 
-## ⚡ t e c h ⚡
-
+## ⚡  t  e  c  h  ⚡
+<div>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dart-9999FF?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-0080ff?style=flat-square&logo=Flutter&logoColor=white"/>
@@ -27,14 +27,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Html-373535?style=flat-square&logo=Html#&logoColor=white"/>
 <img src="https://img.shields.io/badge/Php-392f31?style=flat-square&logo=Php#&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+</div>
 
-## ✔︎ b l o g  &  M a i l ✔︎
+## ✉️  b  l  o  g   &   M  a  i  l  📫
 [![Tech Blog](https://img.shields.io/badge/Blog-0ABF53?style=flat-square&logo=blogger&logoColor=white)](https://blog.naver.com/PostView.nhn?blogId=dlmajang&logNo=222004852213) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.wjdwls48145@gmail.com)
-  
+<br><br>  
   
 
-## ▶︎ s t a t s ◀︎
-<br><br>
+## 📚  s  t  a  t  s  📚
 <a href="https://github.com/Majang9711">
     <img src="https://github-readme-stats.vercel.app/api?username=Majang9711&count_private=true&show_icons=true"/>
 </a>
