@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-## Use...
+## ⚡ t e c h ⚡
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 
-## Blog / Mail
+## 💬 Blog / Mail 📫
 [![Tech Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white)](https://blog.naver.com/PostView.nhn?blogId=dlmajang&logNo=222004852213) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.wjdwls48145@gmail.com)
 <br><br><br>
 
