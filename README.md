@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Dart-9999FF?style=flat-square&logo=Dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
-## 💬 Blog / Mail 📫
+## 💬 b l o g  &  M a i l 📫
 [![Tech Blog](https://img.shields.io/badge/Blog-0ABF53?style=flat-square&logo=blogger&logoColor=white)](https://blog.naver.com/PostView.nhn?blogId=dlmajang&logNo=222004852213) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:one.wjdwls48145@gmail.com)
 <br><br><br>
 
